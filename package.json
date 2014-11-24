@@ -1,0 +1,14 @@
+{
+  "name": "jasmine-shared-context",
+  "version": "0.1.0",
+  "description": "Adds support for shared contexts to jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "Bjarne Mogstad <me@mogstad.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.1.0"
+  }
+}
